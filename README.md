@@ -1,2 +1,3 @@
-# Algorithms
-Algorithms Forth Edition Exercises
+# Get Started
+
+Algorithms interpreted by C++.
