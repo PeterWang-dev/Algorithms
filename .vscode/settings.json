@@ -1,0 +1,16 @@
+{
+    "java.jdt.ls.home": "D:\\Repositories\\GitHub\\PeterWang-dev\\Algorithms\\Java\\jdk\\jdk-17.0.2",
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "java.configuration.runtimes": [
+        {
+          "name": "JavaSE-8",
+          "path": "jdk/jdk-8"
+        }
+      ]
+}
