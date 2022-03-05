@@ -7,8 +7,8 @@ Algorithms in Book ***Algorithms: Forth Edition*** and exercises of [***Algrithm
 **There are three branches of this repository.**
 
 - main: The branch which holds [blog](https://algorithms.pwdevstudio.xyz) of learning algorithms.
-- [Algorithms-by-Java](https://github.com/PeterWang-dev/Algorithms/blob/Algorithms-by-Java/): The APIs (with unit test) and Clients written in Java.
-- [Algorithms-by-C++](https://github.com/PeterWang-dev/Algorithms/blob/Algorithms-by-C++/): Algorithms implications written in C++.
+- [Algorithms-by-Java](https://github.com/PeterWang-dev/Algorithms/tree/Algorithms-by-Java/): The APIs (with unit test) and Clients written in Java.
+- [Algorithms-by-C++](https://github.com/PeterWang-dev/Algorithms/tree/Algorithms-by-C++/): Algorithms implications written in C++.
 
 ## Development Environment
 
